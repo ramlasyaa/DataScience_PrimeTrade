@@ -1,5 +1,5 @@
 # Primetrade.ai - Data Science Intern Assignment Report
-**Candidate**: [Insert Your Name]
+**Candidate**: Ram Lasya
 
 ## 1. Methodology & Data Preparation
 - **Datasets Merged**: Bitcoin Market Sentiment (2616 rows) and Hyperliquid historical trader data (174,668 rows).
