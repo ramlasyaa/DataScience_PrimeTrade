@@ -34,3 +34,43 @@ This repository contains my submission for the Data Science Internship evaluatio
     jupyter notebook analysis.ipynb
     ```
     Alternatively, you can run all cells head-to-tail to reproduce the metrics and charts.
+
+    ---
+
+## 📊 Key Insights
+
+### 🔹 Insight 1: Market Sentiment Impacts Profitability
+Traders tend to generate **lower average PnL during Fear periods** compared to Greed periods, indicating cautious or reactive trading behavior.
+
+### 🔹 Insight 2: High Leverage Increases Risk in Fear Markets
+High leverage traders show **greater losses during Fear conditions**, suggesting amplified downside risk when market sentiment is negative.
+
+### 🔹 Insight 3: Increased Activity During Greed
+Trade frequency significantly **increases during Greed periods**, reflecting more aggressive participation and confidence in the market.
+
+---
+
+## 👥 Trader Segmentation
+
+To better understand behavioral patterns, traders were segmented into:
+
+- **High vs Low Leverage Traders**
+- **Frequent vs Infrequent Traders**
+- **Consistent Winners vs Inconsistent Traders**
+
+These segments reveal how different trader types respond uniquely to market sentiment.
+
+---
+
+## 💡 Actionable Strategies
+
+### 🚀 Strategy 1: Risk Reduction in Fear Markets
+Reduce leverage exposure during Fear periods to minimize potential drawdowns, especially for high-risk traders.
+
+### 🚀 Strategy 2: Selective Aggression in Greed Markets
+Increase trading activity during Greed phases, but only for traders with historically consistent performance.
+
+---
+
+## 📎 Resume
+[View Resume](https://drive.google.com/file/d/1L8czJ1ncReidYdw3gZpYwDC8sGgrrjB4/view?usp=sharing)
