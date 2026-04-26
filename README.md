@@ -69,6 +69,3 @@ Reduce leverage exposure during Fear periods to minimize potential drawdowns, es
 Increase trading activity during Greed phases, but only for traders with historically consistent performance.
 
 ---
-
-## 📎 Resume
-[View Resume](https://drive.google.com/file/d/1L8czJ1ncReidYdw3gZpYwDC8sGgrrjB4/view?usp=sharing)
