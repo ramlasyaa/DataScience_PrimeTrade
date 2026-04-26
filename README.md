@@ -1,5 +1,3 @@
-# Primetrade.ai Data Science Intern - Round 0 Assignment
-
 This repository contains my submission for the Data Science Internship evaluation. The analysis uncovers patterns relating market sentiment (Fear/Greed) to trader behavior and performance on the Hyperliquid platform.
 
 ## Repository Contents
